@@ -1,0 +1,26 @@
+{
+  "name": "gulp-jsnice",
+  "version": "0.0.1",
+  "description": "Gulp plugin for http://jsnice.org",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heroandtn3/gulp-jsnice.git"
+  },
+  "keywords": [
+    "jsnice"
+  ],
+  "author": "heroandtn3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heroandtn3/gulp-jsnice/issues"
+  },
+  "homepage": "https://github.com/heroandtn3/gulp-jsnice#readme",
+  "dependencies": {
+    "jsnice": "^0.2.0",
+    "through2": "^2.0.1"
+  }
+}
